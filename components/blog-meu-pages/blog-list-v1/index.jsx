@@ -1,4 +1,4 @@
-import Blog6 from "../../blog/Blog6";
+import Blog3 from "../../blog/Blog3";
 import LoginPopup from "../../common/form/login/LoginPopup";
 import FooterDefault from "../../footer/common-footer";
 import DefaulHeader from "../../header/DefaulHeader";
@@ -31,7 +31,7 @@ const index = () => {
             <div className="content-side col-lg-8 col-md-12 col-sm-12">
               <div className="blog-grid">
                 <div className="row">
-                  <Blog6 />
+                  <Blog3 />
                 </div>
                 {/* End .row */}
 
